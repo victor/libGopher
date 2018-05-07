@@ -60,7 +60,7 @@
 		8BC3760F209F9D290034A7FD /* GopherURLTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GopherURLTests.swift; sourceTree = "<group>"; };
 		8BC37611209F9E610034A7FD /* GopherProtocolTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GopherProtocolTests.swift; sourceTree = "<group>"; };
 		8BC37613209F9EAA0034A7FD /* GopherRequestsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GopherRequestsTests.swift; sourceTree = "<group>"; };
-		8BC3761F20A053150034A7FD /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		8BC3761F20A053150034A7FD /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		AD2FAA261CD0B6D800659CF4 /* libGopher.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = libGopher.plist; sourceTree = "<group>"; };
 		AD2FAA281CD0B6E100659CF4 /* libGopherTests.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = libGopherTests.plist; sourceTree = "<group>"; };
 		DD75027A1C68FCFC006590AF /* libGopher-macOS Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "libGopher-macOS Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
