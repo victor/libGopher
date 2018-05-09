@@ -1,5 +1,5 @@
 language: swift
 osx_image: xcode9.3
-script: xcodebuild -scheme libGopher-macOS test
 xcode_project: libGopher.xcodeproj
 xcode_scheme: libGopher-macOS
+script: "xcodebuild test -project libGopher.xcodeproj -scheme 'libGopher-macOS' | xcpretty -c && exit ${PIPESTATUS[0]}"
